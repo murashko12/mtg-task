@@ -1,0 +1,10 @@
+.watchContainer {
+    width: 120px;
+    padding: 5px 0;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 700;
+    color: #FFFFFF;
+    border-radius: 10px;
+    background-color: #808080;
+}
